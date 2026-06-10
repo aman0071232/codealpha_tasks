@@ -221,41 +221,58 @@ codealpha_task
 
 
 
-
-
 ---
 
 # 🚀 How To Run Locally
 
-
-Clone repository
-
+### Clone Repository
 
 ```bash
 git clone your_repository_link
+```
 
+### Install Dependencies
+
+```bash
 pip install -r requirements.txt
+```
+
+### Run Streamlit App
+
+```bash
 streamlit run app.py
+```
 
 
-📚 Key Learnings
+---
+
+# 📚 Key Learnings
 
 Through these projects I improved my understanding of:
 
-⭐ Supervised Machine Learning
-⭐ Regression Problems
-⭐ Classification Problems
-⭐ Feature Engineering
-⭐ Model Evaluation
-⭐ Deployment Workflow
+⭐ Supervised Machine Learning  
+⭐ Regression Problems  
+⭐ Classification Problems  
+⭐ Feature Engineering  
+⭐ Model Evaluation  
+⭐ Deployment Workflow  
 
 
-🎯 Internship
-CodeAlpha Machine Learning Internship
+---
+
+# 🎯 Internship
+
+## CodeAlpha Machine Learning Internship
 
 📅 Duration: June 2026 - July 2026
 
+
+---
+
 <div align="center">
-⭐ Thank You For Visiting ⭐
-If you like this repository, consider giving it a ⭐
-</div> ```
+
+# ⭐ Thank You For Visiting ⭐
+
+### If you like this repository, consider giving it a ⭐
+
+</div>
